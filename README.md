@@ -2,7 +2,7 @@
 
 <h2> E o que isso faz? </h2>
 <br>
-<p> Mostra na página inicial do aplicativo os doze talismans da primeira temporada de 'As aventuras de Jackie Chan' (09/2000). O aplicativo teve um único objetivo: <b>adquirir fluência em Dart e Flutter.</b>
+<p> Mostra na HomePage do App os doze talismans da primeira temporada de 'As aventuras de Jackie Chan' (09/2000). O aplicativo teve um único objetivo: <b>adquirir fluência em Dart e Flutter.</b>
 <br>
     
 </p>
